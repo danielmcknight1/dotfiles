@@ -13,6 +13,7 @@ set expandtab
 set autoindent
 set backspace=indent,eol,start
 set shiftround
+set mouse=a
 
 :highlight ExtraWhitespace ctermbg=red guibg=red
 :match ExtraWhitespace /\s\+$/
